@@ -29,7 +29,7 @@ spring.cloud.nacos.config.group=YOUR_GROUP_NAME
 
 ### spring.config.import
 
-In Spring Cloud Alibaba 2025.x, you **must** use `spring.config.import` to import Nacos configurations. The 2025.1.x version has officially deprecated Spring Cloud Bootstrap, and no longer supports connecting to Nacos via `bootstrap.yml` / `bootstrap.properties`.
+In Spring Cloud Alibaba 2026.x, you **must** use `spring.config.import` to import Nacos configurations. The 2025.1.x version has officially deprecated Spring Cloud Bootstrap, and no longer supports connecting to Nacos via `bootstrap.yml` / `bootstrap.properties`.
 
 Configuration example:
 

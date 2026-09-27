@@ -30,7 +30,7 @@ spring.cloud.nacos.config.group=YOUR_GROUP_NAME
 
 ### spring.config.import 引入
 
-在 Spring Cloud Alibaba 2025.x 版本中，接入 Nacos 配置中心**必须**使用 `spring.config.import` 方式导入配置。2025.1.x 版本已明确废弃 Spring Cloud Bootstrap 引导启动方式，不再支持通过 `bootstrap.yml` / `bootstrap.properties` 接入 Nacos。
+在 Spring Cloud Alibaba 2026.x 版本中，接入 Nacos 配置中心**必须**使用 `spring.config.import` 方式导入配置。2025.1.x 版本已明确废弃 Spring Cloud Bootstrap 引导启动方式，不再支持通过 `bootstrap.yml` / `bootstrap.properties` 接入 Nacos。
 
 配置示例如下：
 

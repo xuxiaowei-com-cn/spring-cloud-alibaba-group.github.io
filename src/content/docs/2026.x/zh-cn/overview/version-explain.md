@@ -5,25 +5,17 @@ description: Spring Cloud Alibaba Version.
 custom_edit_url: https://github.com/spring-cloud-alibaba-group/spring-cloud-alibaba-group.github.io/blob/main/i18n/zh-cn/docusaurus-plugin-content-docs/current/overview/terminology.md
 ---
 
-## 2025.x 分支
+## 2026.x 分支
 
-2025.x 分支包含两个主要版本线，分别适配不同的 Spring Boot 和 Spring Cloud 版本。各版本按从新到旧排列如下表（最新版本用\*标记）：
+2026.x 分支目前只包含一个版本线 2026.0.x，适配的 Spring Boot 和 Spring Cloud 版本如下：
 
-### 2025.1.x
+### 2026.0.x
 
-适配 Spring Boot 4.0.x，Spring Cloud 2025.1.x 版本。
-
-| Spring Cloud Alibaba Version | Spring Cloud Version | Spring Boot Version |
-|------------------------------| -------------------- | ------------------- |
-| 2025.1.0.0                   | 2025.1.0             | 4.0.0               |
-
-### 2025.0.x
-
-适配 Spring Boot 3.5.x，Spring Cloud 2025.0.x 版本。
+适配 Spring Boot 4.2.0-M2，Spring Cloud 2026.0.0-M1 版本。
 
 | Spring Cloud Alibaba Version | Spring Cloud Version | Spring Boot Version |
 |------------------------------| -------------------- | ------------------- |
-| 2025.0.0.0                   | 2025.0.0             | 3.5.0               |
+| 2026.0.0.0-SNAPSHOT          | 2026.0.0-M1          | 4.2.0-M2            |
 
 ## 组件版本关系
 
@@ -31,5 +23,4 @@ custom_edit_url: https://github.com/spring-cloud-alibaba-group/spring-cloud-alib
 
 | Spring Cloud Alibaba Version | Sentinel Version | Nacos Version | RocketMQ Version | SchedulerX Version | Seata Version |
 |------------------------------| ---------------- | ------------- | ---------------- | ------------------ | ------------- |
-| 2025.1.0.0                   | 1.8.9            | 3.1.1         | 5.3.1            | 1.13.3             | 2.5.0         |
-| 2025.0.0.0                   | 1.8.9            | 3.0.3         | 5.3.1            | 1.13.1             | 2.5.0         |
+| 2026.0.0.0-SNAPSHOT          | 1.8.10           | 3.1.1         | 5.3.1            | 1.14.2             | 2.6.0         |

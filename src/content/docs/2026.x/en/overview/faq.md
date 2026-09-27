@@ -40,7 +40,7 @@ custom_edit_url: https://github.com/spring-cloud-alibaba-group/spring-cloud-alib
 
 **A:**
 
-Spring Cloud Alibaba currently has the following branches actively maintained: `2.2.x`, `2021.x`, `2022.x`, `2023.x`, `2025.0.x`, `2025.1.x`.
+Spring Cloud Alibaba currently has the following branches actively maintained: `2.2.x`, `2021.x`, `2022.x`, `2023.x`, `2025.0.x`, `2025.1.x`, `2026.0.x`.
 
 The version features are as follows:
 
@@ -55,6 +55,8 @@ The version features are as follows:
 - [2025.0.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2025.0.x): Adapted to Spring Boot 3.5.x and Spring Cloud 2025.0.x.
 
 - [2025.1.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2025.1.x): Adapted to Spring Boot 4.0.x and Spring Cloud 2025.1.x.
+
+- [2026.0.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2026.0.x): Adapted to Spring Boot 4.2.0-M2 and Spring Cloud 2026.0.0-M1. Currently this branch has only one version line.
 
 ---
 
