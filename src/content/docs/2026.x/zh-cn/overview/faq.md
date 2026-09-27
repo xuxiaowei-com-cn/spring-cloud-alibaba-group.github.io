@@ -54,7 +54,7 @@ Spring Cloud Alibaba 目前有以下分支在积极维护：`2.2.x`，`2021.x`�
 
 - [2025.0.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2025.0.x)：适配 Spring Boot 3.5.x 和 Spring Cloud 2025.0.x 版本。
 
-- [2025.1.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2025.1.x)：适配 Spring Boot 4.0.x 和 Spring Cloud 2025.1.x 版本。
+- [2025.1.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2025.1.x)：适配 Spring Boot 4.1.x 和 Spring Cloud 2025.1.x 版本。
 
 - [2026.0.x](https://github.com/alibaba/spring-cloud-alibaba/tree/2026.0.x)：适配 Spring Boot 4.2.0-M2 和 Spring Cloud 2026.0.0-M1 版本，目前该分支只有一个版本线。
 
